@@ -1,10 +1,11 @@
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background-color: #2E2424;
 }
 
 img {
   display: block;
   max-width: 100%;
 }
+
