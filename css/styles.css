@@ -61,3 +61,30 @@ h2 {
   margin: 0 20px 20px 0;
   color: #688D82;
 }
+
+.color-change-1 {
+  color: #688D82;
+}
+
+.color-change-2 {
+  color: #DBAE6B;
+}
+
+main p {
+  font-family: "oswald", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  margin: 20px;
+  color: #DBAE6B;
+}
+
+.legend {
+  font-family: "oswald", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
+  letter-spacing: 1px;
+}
