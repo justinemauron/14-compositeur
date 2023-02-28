@@ -93,10 +93,10 @@ main p {
   font-size: 18px;
   text-transform: uppercase;
   background-color: #688D82;
-  padding: 4px 10px;
+  padding: 4px 5px;
   border-radius: 5px;
-  text-decoration: none;
-  margin-left:20px 0;
+  display: block;
+  text-align: center;
 }
 
 .png {
