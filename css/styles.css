@@ -97,4 +97,22 @@ main p {
   border-radius: 5px;
   display: flex;
   justify-content: center;
+  margin: 20px;
+  text-decoration: none;
+}
+
+.png {
+  margin: 20px;
+  width: 90%;
+}
+
+footer {
+  font-family: "oswald", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  color: #DBAE6B;
+  line-height: 0.1em;
+  margin: 20px 0;
 }
