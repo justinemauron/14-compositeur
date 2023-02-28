@@ -95,10 +95,8 @@ main p {
   background-color: #688D82;
   padding: 4px 10px;
   border-radius: 5px;
-  display: flex;
-  justify-content: center;
-  margin: 20px;
   text-decoration: none;
+  margin-left:20px 0;
 }
 
 .png {
@@ -120,4 +118,8 @@ footer {
 nav a {
   text-decoration: none;
   color: #2E2424;
+}
+
+.space {
+  letter-spacing: 1px;
 }
